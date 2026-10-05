@@ -55,8 +55,3 @@ npm start
 ```
 
 ## Contact
-
-- Email: dineshchandra1613@gmail.com
-- GitHub: https://github.com/Dineshchandra16
-- LinkedIn: https://www.linkedin.com/in/dinesh-chandra966
-- Resume: https://drive.google.com/file/d/1By-NmhgKaZWiyrgIdGHYTte-4UUlh3EN/view?usp=sharing
